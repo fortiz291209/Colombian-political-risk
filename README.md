@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the full research and trading signal infrastructure developed over three years (2021–2024) to study the relationship between Colombian political events and asset price movements in crude oil (Brent, WTI), gold, and correlated FX pairs (USD/COP, USD/BRL, USD/MXN). The work was conducted for a private family office investing proprietary capital across commodity and currency markets.
+This repository contains the full research and trading signal infrastructure developed over three years (2021–2024) to study the relationship between Colombian political events and asset price movements in crude oil (Brent, WTI), gold, and correlated FX pairs (USD/COP, USD/BRL, USD/MXN). 
 
 The core thesis: political discourse in Colombia, particularly around the 2022 presidential election (Gustavo Petro vs. Rodolfo Hernandez) and subsequent policy announcements, generated systematic mispricing in oil and FX markets that could be captured through contrarian positioning based on NLP-derived sentiment signals.
 
